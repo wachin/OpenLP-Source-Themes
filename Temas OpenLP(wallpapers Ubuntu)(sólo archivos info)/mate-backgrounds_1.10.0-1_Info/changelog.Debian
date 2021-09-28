@@ -1,0 +1,55 @@
+mate-backgrounds (1.10.0-1) unstable; urgency=medium
+
+  * Re-upload to unstable.
+
+ -- Mike Gabriel <sunweaver@debian.org>  Fri, 21 Aug 2015 16:32:12 +0200
+
+mate-backgrounds (1.10.0-1~exp1) experimental; urgency=low
+
+  [ Martin Wimpress ]
+  * New upstream release.
+  * debian/copyright:
+    + Update copyright file after new upstream release.
+  * Whitespace cleanup.
+  * debian/control processed with wrap-and-sort.
+
+  [ Mike Gabriel ]
+  * debian/control:
+    + Versioned B-D: mate-common (>= 1.10).
+  * debian/copyright:
+    + Really mention all files.
+    + Add copyright info for desktop/Float-into-MATE.png, desktop/Stripes.png.
+    + Typo fix in filename nature/Dune.jpg.
+  * debian/rules:
+    + Use upstream's NEWS file as upstream ChangeLog.
+  * debian/control:
+    + Provide more package info in LONG_DESCRIPTION. (Sedate lintian
+      complaining about a too-short-long-description).
+
+ -- Mike Gabriel <sunweaver@debian.org>  Tue, 16 Jun 2015 21:01:44 +0200
+
+mate-backgrounds (1.8.0-2) unstable; urgency=low
+
+  * debian/copyright:
+    + Point to git.mate-desktop.org in Source: field.
+    + Fix typo (opinion -> option).
+
+ -- Mike Gabriel <sunweaver@debian.org>  Fri, 02 May 2014 09:09:23 +0200
+
+mate-backgrounds (1.8.0-1) unstable; urgency=low
+
+  * New upstream release.
+  * debian/copyright:
+    + Update copyright file after new upstream release.
+  * debian/watch:
+    + Use tagged CGit tarball snapshots as upstream source.
+  * debian/control:
+    + Bump Standards: to 3.9.5. No changes needed.
+
+ -- Mike Gabriel <sunweaver@debian.org>  Wed, 12 Mar 2014 01:33:57 +0100
+
+mate-backgrounds (1.6.0-1) unstable; urgency=low
+
+  * Initial release. (Closes: #728460).
+
+ -- Mike Gabriel <sunweaver@debian.org>  Fri, 01 Nov 2013 20:40:35 +0100

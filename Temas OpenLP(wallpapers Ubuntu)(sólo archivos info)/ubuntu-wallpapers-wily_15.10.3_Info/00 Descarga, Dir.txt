@@ -1,0 +1,9 @@
+
+Ubicación original de los archivos:
+ubuntu-wallpapers-wily_15.10.3/usr/share/backgrounds/
+
+Dirección de descarga:
+http://ec.archive.ubuntu.com/ubuntu/pool/main/u/ubuntu-wallpapers/ubuntu-wallpapers-wily_15.10.3-0ubuntu1_all.deb
+
+Att: Wachín
+2016-03-17

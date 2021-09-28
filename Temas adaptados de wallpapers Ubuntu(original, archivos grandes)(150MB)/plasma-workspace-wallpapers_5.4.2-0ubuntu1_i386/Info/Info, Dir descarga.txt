@@ -1,0 +1,10 @@
+
+
+Dir:
+http://ec.archive.ubuntu.com/ubuntu/pool/universe/p/plasma-workspace-wallpapers/plasma-workspace-wallpapers_5.4.2-0ubuntu1_i386.deb
+
+Ubicación original en el archivo:
+/plasma-workspace-wallpapers_5.4.2-0ubuntu1_i386/usr/share/wallpapers/
+
+Att: Wachín
+2016-03-17

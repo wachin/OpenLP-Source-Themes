@@ -1,0 +1,10 @@
+
+
+Dir:
+http://ec.archive.ubuntu.com/ubuntu/pool/universe/k/kde-wallpapers/kde-wallpapers_15.08.2-0ubuntu1_all.deb
+
+Ubicación original en el archivo:
+kde-wallpapers_15.08.2-0ubuntu1_all/usr/share/wallpapers/
+
+Att: Wachín
+2016-03-17

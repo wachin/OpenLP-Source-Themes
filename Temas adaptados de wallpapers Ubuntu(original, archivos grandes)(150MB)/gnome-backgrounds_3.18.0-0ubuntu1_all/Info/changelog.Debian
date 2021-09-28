@@ -1,0 +1,71 @@
+gnome-backgrounds (3.18.0-0ubuntu1) wily; urgency=medium
+
+  * New upstream release
+    - Translation updates
+
+ -- Tim Lunn <tim@feathertop.org>  Sun, 04 Oct 2015 09:42:20 +1100
+
+gnome-backgrounds (3.17.3-0ubuntu1) wily; urgency=medium
+
+  * New upstream release
+    - New default backgrounds for 3.18
+
+ -- Tim Lunn <tim@feathertop.org>  Sun, 26 Jul 2015 08:48:13 +1000
+
+gnome-backgrounds (3.16.0-1) unstable; urgency=medium
+
+  * New upstream release.
+  * Bump debhelper compatibility level to 9.
+
+ -- Michael Biebl <biebl@debian.org>  Sun, 24 May 2015 20:35:25 +0200
+
+gnome-backgrounds (3.14.1-1) unstable; urgency=medium
+
+  * New upstream release.
+  * Bump Standards-Version to 3.9.6. No further changes.
+
+ -- Michael Biebl <biebl@debian.org>  Wed, 15 Oct 2014 23:26:13 +0200
+
+gnome-backgrounds (3.14.0-1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Andreas Henriksson <andreas@fatal.se>  Mon, 22 Sep 2014 20:50:55 +0200
+
+gnome-backgrounds (3.13.92-1) unstable; urgency=medium
+
+  * New upstream release candidate.
+  * Upload to unstable.
+
+ -- Andreas Henriksson <andreas@fatal.se>  Fri, 19 Sep 2014 21:45:24 +0200
+
+gnome-backgrounds (3.13.90-1) experimental; urgency=medium
+
+  * New upstream development release.
+    - Note: this package now ships the default background.
+  * Bump Standards-Version to 3.9.5
+  * Conflict/Replaces gnome-themes-standard-data (<< 3.13.90)
+    - we now ship the background xml files and default background
+      previously shipped in gnome-themes-standard-data.
+
+ -- Andreas Henriksson <andreas@fatal.se>  Sat, 06 Sep 2014 10:18:11 -0700
+
+gnome-backgrounds (3.12.2-1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Andreas Henriksson <andreas@fatal.se>  Fri, 16 May 2014 11:09:33 +0200
+
+gnome-backgrounds (3.12.1-1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Andreas Henriksson <andreas@fatal.se>  Fri, 09 May 2014 19:38:45 +0200
+
+gnome-backgrounds (3.12.0-1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Andreas Henriksson <andreas@fatal.se>  Mon, 24 Mar 2014 18:47:11 +0100
+
+# For older changelog entries, run 'apt-get changelog gnome-backgrounds'

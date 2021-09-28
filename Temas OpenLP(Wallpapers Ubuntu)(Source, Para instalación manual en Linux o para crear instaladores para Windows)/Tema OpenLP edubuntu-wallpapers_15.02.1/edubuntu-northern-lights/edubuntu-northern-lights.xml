@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<theme version="2.0">
+    <name>edubuntu-northern-lights</name>
+    <background type="image">
+        <filename>edubuntu-northern-lights.jpg</filename>
+        <borderColor>#000000</borderColor>
+    </background>
+    <font type="main">
+        <name>Arial</name>
+        <color>#FFFFFF</color>
+        <size>42</size>
+        <bold>True</bold>
+        <italics>False</italics>
+        <line_adjustment>0</line_adjustment>
+        <location height="691" override="False" width="1260" x="10" y="0"/>
+        <shadow shadowColor="#000000" shadowSize="5">False</shadow>
+        <outline outlineColor="#000000" outlineSize="2">True</outline>
+    </font>
+    <font type="footer">
+        <name>Arial</name>
+        <color>#FFFFFF</color>
+        <size>12</size>
+        <bold>False</bold>
+        <italics>False</italics>
+        <line_adjustment>0</line_adjustment>
+        <location height="76" override="False" width="1260" x="10" y="691"/>
+        <shadow shadowColor="#000000" shadowSize="5">True</shadow>
+        <outline outlineColor="#000000" outlineSize="2">False</outline>
+    </font>
+    <display>
+        <horizontalAlign>2</horizontalAlign>
+        <verticalAlign>1</verticalAlign>
+        <slideTransition>False</slideTransition>
+    </display>
+</theme>

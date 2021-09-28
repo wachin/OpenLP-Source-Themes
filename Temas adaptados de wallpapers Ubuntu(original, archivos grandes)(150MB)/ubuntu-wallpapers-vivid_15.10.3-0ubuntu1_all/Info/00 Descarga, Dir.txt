@@ -1,0 +1,8 @@
+
+Ubicación original de los archivos:
+ubuntu-wallpapers-vivid_15.10.3-0ubuntu1_all/usr/share/backgrounds/
+Dirección de descarga:
+http://ec.archive.ubuntu.com/ubuntu/pool/universe/u/ubuntu-wallpapers/ubuntu-wallpapers-vivid_15.10.3-0ubuntu1_all.deb
+
+Att: Wachín
+2016-03-22

@@ -1,0 +1,9 @@
+
+Ubicación original de los archivos:
+gnome-backgrounds_3.18.0-0ubuntu1_all/usr/share/backgrounds/gnome/
+
+Dirección de descarga:
+http://ec.archive.ubuntu.com/ubuntu/pool/universe/g/gnome-backgrounds/gnome-backgrounds_3.18.0-0ubuntu1_all.deb 
+
+Att: Wachín
+2016-03-17

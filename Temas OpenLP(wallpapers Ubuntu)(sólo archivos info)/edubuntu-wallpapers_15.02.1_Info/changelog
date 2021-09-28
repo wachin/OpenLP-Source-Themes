@@ -1,0 +1,73 @@
+edubuntu-artwork (15.02.1) vivid; urgency=medium
+
+  * Add fsck report and cancel support with systemd to the logo theme
+    (LP: #1425434)
+
+ -- Didier Roche <didrocks@ubuntu.com>  Wed, 25 Feb 2015 13:34:00 +0100
+
+edubuntu-artwork (14.03.1) trusty; urgency=medium
+
+  * Fix our default wallpaper. It used to come from ubuntu-wallpapers
+    but was removed from there, so copy it over to edubuntu-wallpapers to
+    make sure we always have it around...
+
+ -- Stéphane Graber <stgraber@ubuntu.com>  Wed, 26 Mar 2014 17:37:53 -0400
+
+edubuntu-artwork (13.12.2) trusty; urgency=low
+
+  * Bump splash and lightdm background for 14.04 LTS.
+
+ -- Stéphane Graber <stgraber@ubuntu.com>  Tue, 03 Dec 2013 22:31:38 -0500
+
+edubuntu-artwork (13.12.1) trusty; urgency=low
+
+  * Don't use hardcoded path to dpkg-divert as this has a tendency to
+    blow up when things get moved (as was the case a few days ago...).
+
+ -- Stéphane Graber <stgraber@ubuntu.com>  Tue, 03 Dec 2013 17:41:18 -0500
+
+edubuntu-artwork (13.10.1) saucy; urgency=low
+
+  * A previous change moved the default wallpaper from
+    edubuntu_default.png to edubuntu_default.jpg. This isn't a big
+    problem in itself but things (old installs, the installer, ...) still
+    refer to the .png filename, so make sure we ship a symlink. Also fix the
+    postinst to touch both paths (just to be safe).
+
+ -- Stéphane Graber <stgraber@ubuntu.com>  Mon, 14 Oct 2013 13:53:36 -0400
+
+edubuntu-artwork (13.09.1) saucy; urgency=low
+
+  * Fix typo in gsettings override leading to online results to still
+   show up in the Dash.
+
+ -- Stéphane Graber <stgraber@ubuntu.com>  Thu, 26 Sep 2013 11:05:04 -0400
+
+edubuntu-artwork (13.08.2) saucy; urgency=low
+
+  [ Howard Chan ]
+  * Fix Dash launcher icon to Edubuntu.
+
+ -- Howard Chan <smartboyhw@gmail.com>  Thu, 29 Aug 2013 22:26:28 +0800
+
+edubuntu-artwork (13.08.1) saucy; urgency=low
+
+  * Update version numbers to 13.10
+  * Set wallpaper
+
+ -- Jonathan Carter <jonathan@ubuntu.com>  Wed, 28 Aug 2013 20:52:23 +0200
+
+edubuntu-artwork (13.03.1) raring; urgency=low
+
+  * Fix icon theme to use ubuntu-mono-dark instead of Humanity-Dark.
+    This should fix the few icons that were currently marked as missing.
+
+ -- Stéphane Graber <stgraber@ubuntu.com>  Wed, 13 Mar 2013 10:05:57 -0400
+
+edubuntu-artwork (13.02.2) raring; urgency=low
+
+  * Set default themes to Ambians/Humanity for Alpha 2
+
+ -- Jonathan Carter <jonathan@ubuntu.com>  Sun, 10 Feb 2013 17:38:35 +0200
+
+# For older changelog entries, run 'apt-get changelog edubuntu-wallpapers'

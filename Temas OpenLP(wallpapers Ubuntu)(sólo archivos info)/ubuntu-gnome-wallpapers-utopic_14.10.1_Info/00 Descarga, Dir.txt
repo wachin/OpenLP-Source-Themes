@@ -1,0 +1,9 @@
+
+Ubicación original de los archivos:
+ubuntu-gnome-wallpapers-utopic_14.10.1_all/usr/share/backgrounds/ubuntu-gnome/
+
+Dirección de descarga:
+http://ec.archive.ubuntu.com/ubuntu/pool/universe/u/ubuntu-gnome-wallpapers/ubuntu-gnome-wallpapers-utopic_14.10.1_all.deb
+
+Att: Wachín
+2016-03-17

@@ -1,0 +1,85 @@
+ubuntu-wallpapers (15.10.3-0ubuntu1) wily; urgency=medium
+
+  * Renamed "P5160283" to "Light my fire evening sun" as per photographer.
+
+ -- Nathan Haines <nhaines@ubuntu.com>  Fri, 02 Oct 2015 01:31:52 -0700
+
+ubuntu-wallpapers (15.10.2-0ubuntu2) wily; urgency=medium
+
+  * d/control: update the description of the wily package. Thanks Sébastien
+    for noticing the typo. 
+
+ -- Daniel Holbach <daniel.holbach@ubuntu.com>  Thu, 01 Oct 2015 16:49:50 +0200
+
+ubuntu-wallpapers (15.10.2-0ubuntu1) wily; urgency=medium
+
+  * Add winners of wallpaper competition.
+
+ -- Daniel Holbach <daniel.holbach@ubuntu.com>  Wed, 30 Sep 2015 12:28:09 +0200
+
+ubuntu-wallpapers (15.10.1-0ubuntu1) wily; urgency=medium
+
+  * Apply some lossless crushing using optipng.
+  * New default wallpapers for 15.10 (LP: #1497177)
+
+ -- Iain Lane <iain.lane@canonical.com>  Tue, 29 Sep 2015 17:59:56 +0100
+
+ubuntu-wallpapers (15.04.1-0ubuntu1) vivid; urgency=medium
+
+  * Update with new version of default wallpaper, with higher quality and
+    better symmetry.
+
+ -- Iain Lane <iain@orangesquash.org.uk>  Thu, 19 Mar 2015 13:13:58 +0000
+
+ubuntu-wallpapers (15.04.0-0ubuntu1) vivid; urgency=medium
+
+  * Remove +x from Water_web_by_Tom_Kijas (LP: #1405794)
+  * Import Vivid wallpapers and create package (LP: #1429011)
+  * Update default wallpaper, and add 'alternative' official wallpaper.
+  * Update copyright file to account for copyright of default wallpaper and
+    extend year to 2015.
+
+ -- Iain Lane <iain.lane@canonical.com>  Wed, 11 Mar 2015 16:31:56 +0000
+
+ubuntu-wallpapers (14.10.0-0ubuntu1) utopic; urgency=medium
+
+  * Actually it's better if this isn't native as the orig portion is pretty
+    huge.
+
+ -- Iain Lane <iain.lane@canonical.com>  Mon, 15 Sep 2014 09:51:48 +0100
+
+ubuntu-wallpapers (14.10.0) utopic; urgency=medium
+
+  * Make this a native package
+  * Import Utopic wallpapers and create package (LP: #1354341)
+  * Update copyright year to include 2014.
+  * Create scripts/ directory and put package maintenance scripts in there.
+  * Remove rebuild.sh script which is obsolete.
+
+ -- Iain Lane <iain.lane@canonical.com>  Fri, 12 Sep 2014 17:42:39 +0100
+
+ubuntu-wallpapers (14.04.0.1-0ubuntu1) trusty; urgency=medium
+
+  [ Michal Izydorczyk ]
+  * Update wallpaper with better alignment (LP: #1291735)
+
+  [ Ken Vandine / Iain Farrell ]
+  * Replaced Water_web_by_Tom_Kijas.jpg with a new version and included a
+    new content wallpaper now that we've gotten permission to use it. (LP:
+    #1275798)
+
+ -- Dimitri John Ledkov <xnox@ubuntu.com>  Mon, 17 Mar 2014 10:17:47 +0000
+
+ubuntu-wallpapers (14.04.0-0ubuntu1) trusty; urgency=medium
+
+  [ Ken VanDine ]
+  * Upstream version bump 
+  * bumped standards version to 3.9.5
+  * Added ubuntu-wallpapers-trusty with the 14.04 contest winner (LP: #1275798)
+  * Updated default wallpaper for 14.04 (fixes the "Hey we've forgotten to
+    include the new default background in 14.04 which OMG!Ubuntu reported
+    about" LP: #1290917)
+
+ -- Dimitri John Ledkov <xnox@ubuntu.com>  Wed, 12 Mar 2014 14:48:03 +0000
+
+# For older changelog entries, run 'apt-get changelog ubuntu-wallpapers-vivid'

@@ -1,0 +1,12 @@
+ubuntu-gnome-wallpapers (14.10.1) utopic; urgency=medium
+
+  * Release community wallpapers for Utopic (LP: #1374869)
+
+ -- Tim Lunn <tim@feathertop.org>  Sun, 28 Sep 2014 13:57:18 +1000
+
+ubuntu-gnome-wallpapers (14.04.1) trusty; urgency=low
+
+  * Initial Packaging (based off ubuntu-wallpapers packaging) (LP: #1294891)
+
+ -- Tim Lunn <tim@feathertop.org>  Tue, 11 Mar 2014 08:21:07 +1100
+

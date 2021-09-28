@@ -1,0 +1,9 @@
+
+Ubicación original de los archivos:
+/mate-backgrounds_1.10.0-1_all/usr/share/backgrounds/mate/nature/
+
+Dirección de descarga:
+wget -c http://ec.archive.ubuntu.com/ubuntu/pool/universe/m/mate-backgrounds/mate-backgrounds_1.10.0-1_all.deb
+
+Att: Wachín
+2016-03-17

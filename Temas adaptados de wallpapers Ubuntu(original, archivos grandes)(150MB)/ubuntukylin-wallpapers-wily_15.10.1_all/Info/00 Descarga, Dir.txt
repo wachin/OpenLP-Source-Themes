@@ -1,0 +1,9 @@
+
+Ubicación original de los archivos:
+ubuntukylin-wallpapers-wily_15.10.1/usr/share/backgrounds/
+
+Dirección de descarga:
+http://ec.archive.ubuntu.com/ubuntu/pool/universe/u/ubuntukylin-wallpapers/ubuntukylin-wallpapers-wily_15.10.1_all.deb
+
+Att: Wachín
+2016-03-17

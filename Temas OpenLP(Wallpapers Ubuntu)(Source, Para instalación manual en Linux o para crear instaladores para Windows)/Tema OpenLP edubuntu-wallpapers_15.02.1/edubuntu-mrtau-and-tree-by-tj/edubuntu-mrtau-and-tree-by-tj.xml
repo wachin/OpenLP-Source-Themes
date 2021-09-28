@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<theme version="2.0">
+    <name>edubuntu-mrtau-and-tree-by-tj</name>
+    <background type="image">
+        <filename>edubuntu-mrtau-and-tree-by-tj_XnViewMP.jpg</filename>
+        <borderColor>#000000</borderColor>
+    </background>
+    <font type="main">
+        <name>Liberation Sans</name>
+        <color>#feffaf</color>
+        <size>42</size>
+        <bold>True</bold>
+        <italics>False</italics>
+        <line_adjustment>0</line_adjustment>
+        <location height="691" override="False" width="1260" x="10" y="0"/>
+        <shadow shadowColor="#000000" shadowSize="5">False</shadow>
+        <outline outlineColor="#000000" outlineSize="3">True</outline>
+    </font>
+    <font type="footer">
+        <name>Liberation Sans</name>
+        <color>#FFFFFF</color>
+        <size>12</size>
+        <bold>False</bold>
+        <italics>False</italics>
+        <line_adjustment>0</line_adjustment>
+        <location height="76" override="False" width="1260" x="10" y="691"/>
+        <shadow shadowColor="#000000" shadowSize="5">True</shadow>
+        <outline outlineColor="#000000" outlineSize="2">False</outline>
+    </font>
+    <display>
+        <horizontalAlign>0</horizontalAlign>
+        <verticalAlign>0</verticalAlign>
+        <slideTransition>False</slideTransition>
+    </display>
+</theme>
